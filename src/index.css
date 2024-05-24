@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+}
+
+body {
+  background-image: url("/testBg.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  color: white;
+}
+
+:root {
+  --lightGray: #dddddd35;
+  --btnBlue: #1f8ef1;
+  --btnHoverBlue: #3ba0f8;
+  --disabledColor: #dddddd50;
+}
+
+.container {
+  width: 90vw;
+  height: 90vh;
+  background-color: #03071295;
+  backdrop-filter: blur(20px) saturate(180%);
+  border-radius: 12px;
+  display: flex;
+  overflow: hidden;
+}
+.loading {
+  padding: 50px 100px;
+  font-size: 36px;
+  border-radius: 10px;
+  background-color: rgb(17, 25, 40);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
