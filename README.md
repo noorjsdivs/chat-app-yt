@@ -1,12 +1,12 @@
 # Chat Application using React+vite and firebase
 
-![chat-app](https://github.com/noorjsdivs/chat-app-yt/assets/104062645/96bcc6fa-60d5-4bf5-aba2-d8ce92bf8f55)
+<img width="1283" alt="chat_app_using_reactjs_free_code" src="https://github.com/noorjsdivs/chat-app-yt/assets/104062645/0f81e187-17b9-4cf2-86e6-ff0f14bf82ad">
 
 
-## Clone this repo
+## Try this setup to run in your local machine:
 
-try this setup to run in your local machine:
-
+### Clone this repo
+### cd into your project chat-app-yt
 ### npm install
 ### npm run dev
 
