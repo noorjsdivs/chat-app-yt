@@ -4,7 +4,9 @@
 
 ## Key features:
 _responsive user interfaces,
+
 _real time chatting,
+
 _interactive store managements for users and chattings data.
 
 
