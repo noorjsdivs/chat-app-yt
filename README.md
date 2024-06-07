@@ -1,4 +1,4 @@
-# Create your dynamic chatting application by using Reactjs,Vitejs, google firebase & zustand.
+## Create your dynamic chatting application by using Reactjs,Vitejs, google firebase & zustand.
 
 <img width="1283" alt="chat_app_using_reactjs_free_code" src="https://github.com/noorjsdivs/chat-app-yt/assets/104062645/0f81e187-17b9-4cf2-86e6-ff0f14bf82ad">
 
